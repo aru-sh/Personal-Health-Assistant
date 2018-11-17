@@ -1,0 +1,2 @@
+# Personal-Health-Assistant
+We developed a website which detects over 50 diseases of a person based on symptoms entered. The heart of the project was the Disease Identification and Prediction (DIP) algorithm. The main objective was to create a fast, easy and efficient algorithm. The project was further extended to connect modules for fixing an appointment with a choice of over 700 doctors and buying medicines from nearly 60 pharmacy stores in Chennai.
